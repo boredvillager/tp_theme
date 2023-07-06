@@ -80,7 +80,7 @@ body {
 
   <div class="fourzerofour">
     <p align="center"><span>4</span><span>0</span><span>4</span></p>
-    <p align="center">该页面不存在(´･ω･`) 3秒后跳转</p>
+    <p align="center">the page does not exist(´･ω･`) 3 jump in seconds</p>
   </div>
 
 
